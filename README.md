@@ -1,5 +1,5 @@
-# Pump-it-up
-Top 15% in Datadriven 'Pump it Up' Machine Learning Challenge
+# Pump-it-Up
+
 
 The goal here is to try helping the Tanzanian Ministry of Water to predict the operating condition of a waterpoint accross the country. We want to predict which pumps are going to continue working, which ones are going to need repairs and which ones are going to fail. We are thus dealing here with a multiclass classification problem for which we develop and Ensemble model.
 
